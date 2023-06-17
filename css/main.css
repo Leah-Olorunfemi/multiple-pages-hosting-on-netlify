@@ -1,6 +1,23 @@
 body {
-  background-color: red;
+  /* background-color: red; */
 }
 h1 {
-  color: rgb(67, 42, 165);
+  text-align: center;
+  color: rgb(241, 38, 7);
+}
+
+p {
+  text-align: center;
+  color: rgb(241, 38, 7);
+}
+
+a {
+  color: rgb(241, 38, 7);
+  /* display: block; */
+  /* text-align: center; */
+  margin: 0 12px;
+}
+.links {
+  display: flex;
+  justify-content: center;
 }
