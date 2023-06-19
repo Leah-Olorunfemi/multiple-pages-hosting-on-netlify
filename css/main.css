@@ -13,11 +13,16 @@ p {
 
 a {
   color: rgb(241, 38, 7);
-  /* display: block; */
-  /* text-align: center; */
   margin: 0 12px;
 }
 .links {
   display: flex;
   justify-content: center;
+}
+
+.croissant {
+  display: block;
+  margin: 0 auto;
+  /* padding: 10px 20px; */
+  border-radius: 10px;
 }
